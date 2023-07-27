@@ -1,6 +1,6 @@
 ## Dagger Data and HPC talks - JuliaCon 2023
 
-<img src="docs/logo.jpg" alt="Dagger.jl">
+<img src="https://github.com/JuliaParallel/Dagger.jl/blob/master/docs/logo.jpg" alt="Dagger.jl">
 
 #### Required package branches:
 - MemPool: `jps/storage-tags`
