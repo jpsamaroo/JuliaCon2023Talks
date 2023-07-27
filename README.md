@@ -6,7 +6,7 @@
 - MemPool: `jps/storage-tags`
 - Dagger: `jps/storage-tags`
 - DTables: `jps/dagger-file`
-- FoldsDagger: `master` (unregistered)
+- FoldsDagger: `jps/dagger-0.18` (package is unregistered)
 - DaggerGPU: `0.1.7`
 
 #### Notes on using these notebooks:
