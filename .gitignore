@@ -1,0 +1,7 @@
+*.arrow
+*.csv
+*.parquet
+*.sqlite
+*.jls
+*.pb.gz
+.ipynb_checkpoints
